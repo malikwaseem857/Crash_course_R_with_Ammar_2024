@@ -131,11 +131,12 @@ seq(5, 10000000, by=15000)
  # along.with argument
  
  vec <- c(10, 20, 30, 40, 50)
- seq(along.with = vec)    # that matches the equal length of given sequnence number
+ seq(along.with = vec)    # that matches the equal length of given sequence number
  
  
  # descending sequence
- seq(10, 1, by = -1)  # if i write +1 that will not work because it start with 10.
+ seq(10, 1, by = -1)  # if I write +1 that will not work because it start with 10.
  
  seq(10,1, -2)
+
  
