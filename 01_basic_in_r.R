@@ -3,7 +3,7 @@
 2+3
 please add 2+3 
 2+3 when you put 
-# so this mean there is no need to write please.
+# so this means there is no need to write please.
 # we will add x in y
 x = 2  #if we store 2 in x it will called object
 y = 3
@@ -140,4 +140,5 @@ seq(5, 10000000, by=15000)
  seq(10,1, -2)
 
  
+
 
