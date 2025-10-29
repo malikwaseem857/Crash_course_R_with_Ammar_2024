@@ -8,8 +8,8 @@ please add 2+3
 x = 2  #if we store 2 in x it will called object
 y = 3
 x+y  
-## this is the same thing but we can put 2 & 3 in a small container and this container is called variable
-# Variables are also the names of column
+## this is the same thing but we can put 2 & 3 in a small container, and this container is called a variable
+# Variables are also the names of columns
 ## x and y runs hierarchically first you will store x in our environment and then y
  x-y
  2^3
@@ -140,5 +140,6 @@ seq(5, 10000000, by=15000)
  seq(10,1, -2)
 
  
+
 
 
